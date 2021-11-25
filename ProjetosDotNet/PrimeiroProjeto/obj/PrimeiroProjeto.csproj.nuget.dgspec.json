@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\onedrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\onedrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\onedrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "C:\\Users\\pedro\\onedrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\onedrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\DotNet\\ProjetosDotNet\\PrimeiroProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
